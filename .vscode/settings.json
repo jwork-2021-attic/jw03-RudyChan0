@@ -3,7 +3,6 @@
         "lib/**/*.jar",
     ],
     "java.project.sourcePaths": [
-        "181860011",
         "."
     ]
 }

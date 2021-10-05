@@ -37,3 +37,14 @@
 2：通过图片生成SteganographyEncoder对象  
 3：解码图片获得sort类的字节码  
 4：调用defineClass()，传入字节码，加载sort类
+
+## task2
+- InsertionSorter  
+url=""
+
+<img src="../../example.s181860011.code.InsertionSorter.png" alt="avatar" style="zoom: 50%;" />  
+
+- SelectionSorter  
+url=""
+
+<img src="../../example.s181860011.code.SelectionSorter.png" alt="avatar" style="zoom:50%;" />  
