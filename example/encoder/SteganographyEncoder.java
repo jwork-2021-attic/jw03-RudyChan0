@@ -70,6 +70,7 @@ public class SteganographyEncoder {
         return sb.toString();
     }
 
+    // finalBytes = |sizeNameBytes 4|sizeBytes 4|nameBytes .|bytes .|
     public BufferedImage encodeFile(File file) throws IOException {
         byte[] bytes = IOUtils.toByteArray(new FileInputStream(file));
         byte[] sizeBytes = intToByteArray(bytes.length);
