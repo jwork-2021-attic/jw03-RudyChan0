@@ -71,6 +71,6 @@
 
 <img src="../../S191220057.InsertSorter.png" alt="avatar" style="zoom: 50%;" />  
 
-        "https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA"  
+        "https://asciinema.org/a/yUk99whl4qHTJzvxPPZ1OxPmb"  
 
-[![asciicast](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA.svg)](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA)
+[![asciicast](https://asciinema.org/a/yUk99whl4qHTJzvxPPZ1OxPmb.svg)](https://asciinema.org/a/yUk99whl4qHTJzvxPPZ1OxPmb)

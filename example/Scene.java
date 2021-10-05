@@ -33,9 +33,14 @@ public class Scene {
         //         new URL("https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.SelectionSorter.png"));
         // Class c = loader.loadClass("example.s181860011.code.SelectionSorter");
         
+        // SteganographyClassLoader loader = new SteganographyClassLoader(
+        //         new URL("https://github.com/jwork-2021/jw03-RudyChan0/blob/main/S191220057.InsertSorter.png"));
+        // Class c = loader.loadClass("S191220057.InsertSorter");
+
         SteganographyClassLoader loader = new SteganographyClassLoader(
-                new URL("https://github.com/jwork-2021/jw03-RudyChan0/blob/main/S191220057.InsertSorter.png"));
+                new URL("file:S191220057.InsertSorter.png"));
         Class c = loader.loadClass("S191220057.InsertSorter");
+
 
 
         Sorter sorter = (Sorter) c.newInstance();
