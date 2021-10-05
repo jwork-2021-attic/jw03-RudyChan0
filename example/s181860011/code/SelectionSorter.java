@@ -23,11 +23,15 @@ public class SelectionSorter implements Sorter{
     @Override
     public void sort() {
         for(int i=0;i<a.length-1;i++){
+            int min=a[i];
+            int index=i;
             for(int j=i+1;j<a.length;j++){
-                if(a[i]>a[j]){
-                    swap(i, j);
+                if(a[j]<min){
+                    index=j;
+                    min=a[j];
                 }
             }
+            swap(i, index);
         }
     }
 

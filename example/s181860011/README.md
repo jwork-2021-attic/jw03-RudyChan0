@@ -40,11 +40,13 @@
 
 ## task2
 - InsertionSorter  
-url=""
+
+        url="https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.InsertionSorter.png"  
 
 <img src="../../example.s181860011.code.InsertionSorter.png" alt="avatar" style="zoom: 50%;" />  
 
 - SelectionSorter  
-url=""
+
+        url="https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.SelectionSorter.png"
 
 <img src="../../example.s181860011.code.SelectionSorter.png" alt="avatar" style="zoom:50%;" />  
