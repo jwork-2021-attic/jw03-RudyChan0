@@ -56,10 +56,10 @@
 
         "https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA"  
 
-[![asciicast](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA.svg)](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA)
+[<img src="https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA.svg" alt="asciicast" style="zoom: 80%;" />](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA)
 
 - SelectionSorter  
 
         "https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2"
 
-[![asciicast](https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2.svg)](https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2)
+[<img src="https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2.svg" alt="asciicast" style="zoom:80%;" />](https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2)
