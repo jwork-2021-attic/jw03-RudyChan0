@@ -23,14 +23,16 @@ public class Scene {
 
         // SteganographyClassLoader loader = new SteganographyClassLoader(
         //         new URL("https://cdn.njuics.cn/example.BubbleSorter.png"));
+        // Class c = loader.loadClass("example.BubbleSorter");
         
-        // SteganographyClassLoader loader = new SteganographyClassLoader(
-        //         new URL("https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.InsertionSorter.png"));
-
         SteganographyClassLoader loader = new SteganographyClassLoader(
-                new URL("https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.SelectionSorter.png"));
+                new URL("https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.InsertionSorter.png"));
+        Class c = loader.loadClass("example.s181860011.code.InsertionSorter");
 
-        Class c = loader.loadClass("example.BubbleSorter");
+        // SteganographyClassLoader loader = new SteganographyClassLoader(
+        //         new URL("https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.SelectionSorter.png"));
+        // Class c = loader.loadClass("example.s181860011.code.SelectionSorter");
+        
 
         Sorter sorter = (Sorter) c.newInstance();
 
@@ -39,7 +41,8 @@ public class Scene {
         String log = theGeezer.lineUp(line);
 
         BufferedWriter writer;
-        writer = new BufferedWriter(new FileWriter("result_selection.txt"));
+        //writer = new BufferedWriter(new FileWriter("result_selection.txt"));
+        writer = new BufferedWriter(new FileWriter("result_insertion.txt"));
         writer.write(log);
         writer.flush();
         writer.close();

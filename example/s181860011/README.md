@@ -41,12 +41,25 @@
 ## task2
 - InsertionSorter  
 
-        url="https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.InsertionSorter.png"  
+        "https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.InsertionSorter.png"  
 
 <img src="../../example.s181860011.code.InsertionSorter.png" alt="avatar" style="zoom: 50%;" />  
 
 - SelectionSorter  
 
-        url="https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.SelectionSorter.png"
+        "https://github.com/jwork-2021/jw03-RudyChan0/blob/main/example.s181860011.code.SelectionSorter.png"
 
 <img src="../../example.s181860011.code.SelectionSorter.png" alt="avatar" style="zoom:50%;" />  
+
+## task2
+- InsertionSorter  
+
+        "https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA"  
+
+[![asciicast](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA.svg)](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA)
+
+- SelectionSorter  
+
+        "https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2"
+
+[![asciicast](https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2.svg)](https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2)
