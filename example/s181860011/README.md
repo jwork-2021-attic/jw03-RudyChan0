@@ -51,15 +51,26 @@
 
 <img src="../../example.s181860011.code.SelectionSorter.png" alt="avatar" style="zoom:50%;" />  
 
-## task2
+## task3
 - InsertionSorter  
 
         "https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA"  
 
-[<img src="https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA.svg" alt="asciicast" style="zoom: 80%;" />](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA)
+[![asciicast](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA.svg)](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA)
 
 - SelectionSorter  
 
         "https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2"
 
-[<img src="https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2.svg" alt="asciicast" style="zoom:80%;" />](https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2)
+[![asciicast](https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2.svg)](https://asciinema.org/a/PaRGz2AicvhIpGPm75bui5eb2)
+
+## task4
+- 191220057 林芳麒
+
+        "https://github.com/jwork-2021/jw03-RudyChan0/blob/main/S191220057.InsertSorter.png"  
+
+<img src="../../S191220057.InsertSorter.png" alt="avatar" style="zoom: 50%;" />  
+
+        "https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA"  
+
+[![asciicast](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA.svg)](https://asciinema.org/a/veeuZu8PUFXjXofb8fwc57UwA)
